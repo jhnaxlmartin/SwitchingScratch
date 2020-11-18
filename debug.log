@@ -1,0 +1,13 @@
+[0807/111048.417:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0807/111048.433:ERROR:exception_snapshot_win.cc(98)] thread ID 5668 not found in process
+[0807/111050.625:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0807/111050.625:ERROR:exception_snapshot_win.cc(98)] thread ID 8988 not found in process
+[0807/111059.898:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0807/111059.898:ERROR:exception_snapshot_win.cc(98)] thread ID 5556 not found in process
+[0807/111100.786:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0807/111100.786:ERROR:exception_snapshot_win.cc(98)] thread ID 12132 not found in process
+[0807/111111.948:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0807/111111.948:ERROR:exception_snapshot_win.cc(98)] thread ID 5256 not found in process
+[0807/113731.131:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\JOHNAX~1.MAR\AppData\Local\Temp\scoped_dir6256_1204462312\Crashpad: The system cannot find the file specified. (0x2)
+[0807/113840.593:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\JOHNAX~1.MAR\AppData\Local\Temp\scoped_dir116_370966478\Crashpad: The system cannot find the file specified. (0x2)
+[0807/120627.334:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\JOHNAX~1.MAR\AppData\Local\Temp\scoped_dir2232_1348672612\Crashpad: The system cannot find the file specified. (0x2)
